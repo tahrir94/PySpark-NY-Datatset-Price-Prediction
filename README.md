@@ -5,4 +5,4 @@ charts.py implements various plots from seaborn and matplotlib to help us visual
 
 linear_reg.py implements PySpark to preprocess data from the csv file "AB_NYC_2019.csv" taken from Kaggle, find correlation of price with relevant features, train the data on a linear regression model, and evaluate the performance of the model.
 
-The program was run on Ubuntu terminal.
+The program was run on Ubuntu terminal, as shown in the attached screenshot "vectored_dataframe".
