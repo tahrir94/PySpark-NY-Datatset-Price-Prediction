@@ -1,9 +1,0 @@
-Correlation to price for  neighbourhood_group -0.006032
-Correlation to price for  neighbourhood -0.034920
-Correlation to price for  room_type -0.009577
-Correlation to price for  price 1.000000
-Correlation to price for  minimum_nights 0.039772
-Correlation to price for  number_of_reviews -0.045713
-Correlation to price for  reviews_per_month -0.049844
-Correlation to price for  calculated_host_listings_count 0.046421
-Correlation to price for  availability_365 0.086573
